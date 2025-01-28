@@ -1,6 +1,6 @@
-## - Web developer
-## - From the south of Spain
-## - Never stop learning ...
+- Web developer
+- From the south of Spain
+- Never stop learning ...
 
 
 <!--
