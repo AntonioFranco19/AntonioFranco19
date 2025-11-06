@@ -1,4 +1,4 @@
-- Web developer
+- Junior developer
 - From the south of Spain
 - Never stop learning ...
 
